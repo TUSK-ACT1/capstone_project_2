@@ -4,6 +4,8 @@ A capstone project implementing a multimodal AI assistant with text/speech
 I/O, image captioning, image generation, and Retrieval-Augmented Generation
 (RAG) over a small domain knowledge base — all wrapped in a Gradio UI.
 
+**Documentation:** Please see the [Detailed Project Report](../Capstone%20Project2_Multi_Modal.pdf) for an in-depth explanation of the architecture and methodologies.
+
 ## Project Structure
 
 ```
