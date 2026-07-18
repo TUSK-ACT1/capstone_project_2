@@ -1,0 +1,27 @@
+[
+  {
+    "id": "monument_001",
+    "title": "Taj Mahal",
+    "content": "The Taj Mahal in Agra was commissioned by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. Built primarily of white marble, it is renowned for its symmetrical architecture and intricate inlay work, and is one of the New Seven Wonders of the World."
+  },
+  {
+    "id": "monument_002",
+    "title": "Red Fort",
+    "content": "The Red Fort in Delhi served as the main residence of Mughal emperors for nearly 200 years. Constructed from red sandstone, it is a UNESCO World Heritage Site and the venue for the annual Independence Day flag hoisting ceremony."
+  },
+  {
+    "id": "monument_003",
+    "title": "Hampi",
+    "content": "Hampi, located in Karnataka, was the capital of the Vijayanagara Empire and features ruins of temples, palaces, and market streets that showcase Dravidian architecture dating back to the 14th century."
+  },
+  {
+    "id": "monument_004",
+    "title": "Conservation Efforts",
+    "content": "The Archaeological Survey of India is responsible for the protection, conservation, and restoration of monuments of national importance, employing scientific methods to combat weathering, pollution, and structural decay."
+  },
+  {
+    "id": "monument_005",
+    "title": "Khajuraho Group of Monuments",
+    "content": "The Khajuraho temples in Madhya Pradesh are known for their nagara-style architecture and elaborate sculptures, built by the Chandela dynasty between the 10th and 12th centuries."
+  }
+]

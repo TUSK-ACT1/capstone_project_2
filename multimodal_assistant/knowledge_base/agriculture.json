@@ -1,0 +1,27 @@
+[
+  {
+    "id": "agri_001",
+    "title": "Crop Seasons",
+    "content": "Indian agriculture follows three main cropping seasons: Kharif (June-October) for crops like rice and cotton, Rabi (October-March) for wheat and mustard, and Zaid (March-June) for short-duration crops like watermelon and cucumber."
+  },
+  {
+    "id": "agri_002",
+    "title": "Soil Health Management",
+    "content": "Soil health cards provide farmers with information on nutrient status and recommended fertilizer dosages. Regular soil testing every 2-3 years helps optimize crop yield while reducing excessive chemical fertilizer use."
+  },
+  {
+    "id": "agri_003",
+    "title": "Irrigation Methods",
+    "content": "Common irrigation methods include drip irrigation, sprinkler irrigation, and traditional flood irrigation. Drip irrigation is highly water-efficient and is increasingly promoted for water-scarce regions and horticultural crops."
+  },
+  {
+    "id": "agri_004",
+    "title": "Government Schemes",
+    "content": "Several government schemes support farmers through crop insurance, direct income support, and subsidized credit. These schemes aim to reduce financial risk from crop failure due to natural calamities and market fluctuations."
+  },
+  {
+    "id": "agri_005",
+    "title": "Sustainable Farming",
+    "content": "Sustainable farming practices such as crop rotation, organic composting, and integrated pest management help maintain soil fertility and reduce dependency on chemical inputs while ensuring long-term productivity."
+  }
+]

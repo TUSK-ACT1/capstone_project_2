@@ -1,0 +1,27 @@
+[
+  {
+    "id": "health_001",
+    "title": "Preventive Health Checkups",
+    "content": "Regular health checkups help in early detection of chronic conditions such as diabetes, hypertension, and cardiovascular disease. It is generally recommended that adults undergo a comprehensive checkup at least once a year."
+  },
+  {
+    "id": "health_002",
+    "title": "Vaccination Schedule",
+    "content": "The national immunization schedule includes vaccines for BCG, Hepatitis B, Polio, DPT, Measles, and Rubella, administered at specific age intervals from birth through adolescence to build immunity against common infectious diseases."
+  },
+  {
+    "id": "health_003",
+    "title": "Telemedicine Services",
+    "content": "Telemedicine allows patients to consult doctors remotely via video or audio calls, enabling access to healthcare in rural and underserved areas. Prescriptions and follow-up advice can be issued digitally after consultation."
+  },
+  {
+    "id": "health_004",
+    "title": "Emergency Services",
+    "content": "Emergency medical services can be reached through national helpline numbers for ambulance dispatch. Hospitals maintain 24x7 emergency wards equipped to handle trauma, cardiac events, and other critical conditions."
+  },
+  {
+    "id": "health_005",
+    "title": "Nutrition and Wellness",
+    "content": "A balanced diet comprising proteins, carbohydrates, fats, vitamins, and minerals supports overall health. Public health programs promote awareness about malnutrition, obesity, and lifestyle-related disorders through community outreach."
+  }
+]

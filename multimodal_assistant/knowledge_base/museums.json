@@ -1,0 +1,27 @@
+[
+  {
+    "id": "museum_001",
+    "title": "Types of Museums",
+    "content": "Museums are broadly categorized into art museums, history museums, science museums, and archaeological museums, each curating collections relevant to their theme for public education and preservation of heritage."
+  },
+  {
+    "id": "museum_002",
+    "title": "Visiting Hours and Tickets",
+    "content": "Most museums operate from 10:00 AM to 5:30 PM and remain closed on a designated weekday, often Monday. Tickets can be purchased online in advance or at the counter, with discounted rates for students and senior citizens."
+  },
+  {
+    "id": "museum_003",
+    "title": "Guided Tours",
+    "content": "Guided tours led by trained docents are available at major museums, offering in-depth explanations of exhibits, artifacts, and historical context. Audio guides in multiple languages are also commonly available."
+  },
+  {
+    "id": "museum_004",
+    "title": "Conservation Practices",
+    "content": "Museums employ climate-controlled storage, UV-filtered lighting, and specialized handling protocols to preserve artifacts, manuscripts, and artworks from environmental degradation over time."
+  },
+  {
+    "id": "museum_005",
+    "title": "Digital and Virtual Museums",
+    "content": "Many museums now offer virtual tours and digitized collections accessible online, allowing global audiences to explore exhibits remotely through high-resolution imagery and 3D reconstructions."
+  }
+]

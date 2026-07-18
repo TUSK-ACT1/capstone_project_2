@@ -1,0 +1,27 @@
+[
+  {
+    "id": "college_001",
+    "title": "Admission Process",
+    "content": "Admission to the college is based on merit in the qualifying examination followed by a counseling round. Candidates must submit academic transcripts, an entrance score (where applicable), and complete document verification. The admission cycle typically opens in May and closes by August for the upcoming academic year."
+  },
+  {
+    "id": "college_002",
+    "title": "Departments Offered",
+    "content": "The college offers undergraduate and postgraduate programs in Computer Science, Electronics and Communication, Mechanical Engineering, Civil Engineering, Business Administration, and Applied Sciences. Each department has dedicated laboratories, a departmental library, and industry-linked project work."
+  },
+  {
+    "id": "college_003",
+    "title": "Library Facilities",
+    "content": "The central library holds over 50,000 books, subscribes to national and international journals, and provides digital access to e-books and research databases. Students can borrow up to 4 books at a time for a period of 15 days, with online renewal available."
+  },
+  {
+    "id": "college_004",
+    "title": "Scholarships",
+    "content": "Merit-based and need-based scholarships are available for eligible students, covering partial or full tuition fees. Students must maintain a minimum attendance of 75% and a minimum CGPA of 7.0 to remain eligible for renewal each year."
+  },
+  {
+    "id": "college_005",
+    "title": "Placement Cell",
+    "content": "The Training and Placement Cell coordinates with over 100 recruiting companies annually, organizes pre-placement training, mock interviews, and aptitude workshops. The average placement rate for the last three years has been above 85%."
+  }
+]

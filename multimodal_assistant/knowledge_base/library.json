@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lib_001",
+    "title": "Membership",
+    "content": "Public library membership is open to all residents upon submission of identity and address proof. Membership grants borrowing privileges, access to reading rooms, and participation in library-organized events and workshops."
+  },
+  {
+    "id": "lib_002",
+    "title": "Digital Resources",
+    "content": "Many libraries now offer digital lending platforms providing access to e-books, audiobooks, and academic journals. Members can borrow digital content using library apps on their personal devices."
+  },
+  {
+    "id": "lib_003",
+    "title": "Reference Section",
+    "content": "The reference section houses encyclopedias, dictionaries, atlases, and government publications that are available for in-library use only and cannot be issued for home reading."
+  },
+  {
+    "id": "lib_004",
+    "title": "Children's Section",
+    "content": "The children's section offers a curated collection of storybooks, illustrated fiction, and educational material, along with regular storytelling sessions to encourage early reading habits."
+  },
+  {
+    "id": "lib_005",
+    "title": "Library Timings",
+    "content": "Most public libraries operate from 9:00 AM to 8:00 PM on weekdays, with reduced hours on weekends and public holidays. Some university libraries extend hours during examination periods."
+  }
+]

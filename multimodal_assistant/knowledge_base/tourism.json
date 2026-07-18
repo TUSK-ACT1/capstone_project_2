@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tourism_001",
+    "title": "Best Time to Visit",
+    "content": "The ideal time to visit most Indian tourist destinations is between October and March, when the weather is cool and pleasant. Hill stations are best visited from April to June, while monsoon season (July-September) is suited for waterfalls and lush greenery."
+  },
+  {
+    "id": "tourism_002",
+    "title": "Popular Heritage Sites",
+    "content": "India is home to UNESCO World Heritage Sites such as the Taj Mahal, Qutub Minar, Hampi, and the Sun Temple at Konark. These sites reflect centuries of architectural, cultural, and dynastic history and attract millions of visitors each year."
+  },
+  {
+    "id": "tourism_003",
+    "title": "Travel Documentation",
+    "content": "Domestic travelers require a valid government-issued photo ID such as an Aadhaar card, passport, or driving license. International travelers need a valid passport and an appropriate visa, which can often be obtained through the e-Visa portal."
+  },
+  {
+    "id": "tourism_004",
+    "title": "Eco-Tourism",
+    "content": "Eco-tourism initiatives promote responsible travel to natural areas including wildlife sanctuaries, national parks, and biosphere reserves, aiming to conserve the environment and improve the well-being of local communities through sustainable practices."
+  },
+  {
+    "id": "tourism_005",
+    "title": "Local Cuisine",
+    "content": "Regional cuisine is a major draw for tourists, with each state offering distinct flavors, street food, and traditional thalis. Food tourism trails have become popular in cities known for their culinary heritage."
+  }
+]
